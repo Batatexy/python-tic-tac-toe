@@ -6,6 +6,8 @@
   ![1](https://github.com/Batatexy/tic-tac-toe/assets/141431095/abd27ddf-bf36-4b38-a1df-56dc64ead8be)
   <br>
   ![2](https://github.com/Batatexy/tic-tac-toe/assets/141431095/80a25efd-6945-4e97-90f3-04ddca5d4818)
+
+  https://github.com/Batatexy/tic-tac-toe/assets/141431095/0c2b3ae9-7f05-48b2-9a10-3dd96c7a7f45
 </div>
 
 <div align="justify">
