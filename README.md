@@ -12,10 +12,10 @@
 
 <div align="justify">
   <p>
-    On this game you start by selecting between x or o and then choosen the place, then is the turn of other player, wins who put 3 sybols in a row
+    On this game you start by selecting between x or o and then choosen the place, after this will be the turn of other player, wins who put 3 sybols in a row
   </p>
 
   <p>
-    Neste jogo você começa selecionando entre x ou o e então o lugar, então será a vez do outro jogador, vence quem colocar 3 símbolos em sequência
+    Neste jogo você começa selecionando entre x ou o e então o lugar, depois será a vez do outro jogador, vence quem colocar 3 símbolos em sequência
   </p>
 </div>
